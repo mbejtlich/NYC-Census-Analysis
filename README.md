@@ -7,4 +7,4 @@ The New York City Census Data is from the 2015 American Community Survey 5-Year 
 
 ### Documentation
 Project website:
-http://cargocollective.com/zym_nyc2020/
+https://files.cargocollective.com/c374305/DATA_2020-Midterm-Project.pdf
